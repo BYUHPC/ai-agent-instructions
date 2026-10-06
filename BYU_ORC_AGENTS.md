@@ -10,12 +10,13 @@ The authoritative system copy is usually available at:
 
 ```text
 /apps/instructions_for_ai_agents/BYU_ORC_AGENTS.md
-https://rc.byu.edu/documentation/BYU_ORC_AGENTS.md
+https://raw.githubusercontent.com/BYUHPC/ai-agent-instructions/main/BYU_ORC_AGENTS.md
 ```
 
 This file contains constraints that should be known before deciding what to
 inspect or do. The supporting documents are kept in the `ai-docs/` directory
-next to this file; in the installed system copy, find them at
+next to this file. On GitHub, browse the [ai-docs/ directory](https://github.com/BYUHPC/ai-agent-instructions/tree/main/ai-docs/).
+In the installed system copy, find them at
 `/apps/instructions_for_ai_agents/ai-docs/`. Read the applicable reference
 below before taking a specialized action:
 
