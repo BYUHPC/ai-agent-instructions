@@ -30,6 +30,7 @@ below before taking a specialized action:
 | Cron or other periodic user tasks | [ai-docs/agent-cron.md](ai-docs/agent-cron.md) |
 | Performance, parallelism, or resource efficiency | [ai-docs/agent-performance.md](ai-docs/agent-performance.md) |
 | Python, Python environments, packages, notebooks, or Python frameworks | [ai-docs/agent-python.md](ai-docs/agent-python.md) |
+| Staff-specific Instructions for ORC employees | [ai-docs/agent-staff.md](ai-docs/agent-staff.md) |
 
 HPC resources are shared and competitively scheduled. Write code and workflows
 to use CPU, GPU, memory, storage, and scheduler resources efficiently;
